@@ -1,7 +1,7 @@
 # LAN Network Project - Anudip Foundation
 
 ## Overview
-This project presents an enterprise-grade Local Area Network (LAN) architecture designed and simulated using **Cisco Packet Tracer** as part of the Anudeep Foundation training program. 
+This project presents an enterprise-grade Local Area Network (LAN) architecture designed and simulated using **Cisco Packet Tracer** as part of the Anudip Foundation training program. 
 
 The topology demonstrates efficient IP address management using **Variable Length Subnet Masking (VLSM)**, automated network configuration via **DHCP**, and secure inter-network communication using **static WAN routing** across two interconnected routers.
 
