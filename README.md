@@ -1,4 +1,4 @@
-# LAN Network Project - Anudeep Foundation
+# LAN Network Project - Anudip Foundation
 
 ## Overview
 This project presents an enterprise-grade Local Area Network (LAN) architecture designed and simulated using **Cisco Packet Tracer** as part of the Anudeep Foundation training program. 
